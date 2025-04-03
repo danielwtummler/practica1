@@ -1,8 +1,8 @@
-Rojo
+Rojo123
 Azul
 Verde
 Amarillo
 Naranja
 Morado
 Rosa
-Cyan
+Cyan123
