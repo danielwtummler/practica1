@@ -1,4 +1,5 @@
 Rojo456
+Rojo123
 Azul
 Verde
 Amarillo
@@ -6,3 +7,4 @@ Naranja
 Morado
 Rosa
 Cyan456
+Cyan123
